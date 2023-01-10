@@ -9,7 +9,6 @@
 .container-inner {
     background-color: hsl(0, 0%, 100%); 
     border-radius: 20px;
-    font-size: 0.9375rem;
     height: auto;
     padding: 15px 15px 20px;
     text-align: center;  
@@ -22,13 +21,17 @@
     width: 100%;
 }
 
-h3 {
+h1 {
+    color: hsl(218, 44%, 22%);
     font-family: Outfit;
+    font-size: 1.2rem;
     font-weight: 700;
 }
 
-p {
+p { 
+    color :hsl(220, 15%, 55%);
     font-family: Outfit;
+    font-size: 1rem
     font-weight: 400;
 }
 
